@@ -1,4 +1,5 @@
-![background](https://github.com/jeandersonmachado/jeandersonmachado/assets/97465918/22dc39c1-cfef-406d-8d77-adf63fb4155d)
+![fundo](https://github.com/user-attachments/assets/a4264a25-fbb6-4e47-8c2b-b07e65cf8b99)
+
 <p align="center"><strong style="font-size: larger;">Minhas contribuições 😁👍</strong></p>
 
 ##
