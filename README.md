@@ -15,7 +15,8 @@
   <a href="https://github.com/jeandersonmachado?tab=repositories"><img align="center" alt="jeanderson-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" /></a>
   <a href="https://github.com/jeandersonmachado?tab=repositories">  <img align="center" alt="jeanderson-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></a>
   <a href="https://github.com/jeandersonmachado?tab=repositories">  <img align="center" alt="jeanderson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /></a>
-  <a href="https://github.com/jeandersonmachado?tab=repositories">  <img align="center" alt="jeanderson-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+  <a href="https://github.com/jeandersonmachado?tab=repositories">  <img align="center" alt="jeanderson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /></a>
+  <a href="https://github.com/jeandersonmachado?tab=repositories">  <img align="center" alt="jeanderson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /></a>
   <a href="https://github.com/jeandersonmachado?tab=repositories">  <img align="center" alt="jeanderson-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /></a>
 </div>
 
